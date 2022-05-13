@@ -1,7 +1,7 @@
 ---
-title: another title
+title: "another title"
 date: 2022-05-13
-author: ME
+author: "ME"
 ---
 
 Some stuff I thought of.
